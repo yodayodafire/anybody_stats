@@ -1,5 +1,14 @@
+# directories
+data/
 bin/
 etc/
 lib/
 pyvenv.cfg
 share/
+python_stat_sample/
+notebooks/animation/
+hanbit/
+
+# files
+.DS_Store
+anybody.command
